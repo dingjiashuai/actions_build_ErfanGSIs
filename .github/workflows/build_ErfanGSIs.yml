@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://cloud189-shzh-person.oos-gdsz.ctyunapi.cn/87cd3e92-ca13-4708-abe6-6538b9f8cbed?response-content-disposition=attachment%3Bfilename%3D%22SM-G9750-G9730-rooted.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D10240%2Cconcurrency%3D20&x-amz-CLIENTTYPEIN=WEB&Signature=Ho2Ga6eYs9fxS05tPFTTu8dkVY4%3D&AWSAccessKeyId=18bd696e8df5d7a48893&Expires=1602088533&x-amz-FSIZE=3737737977&x-amz-UID=767847920&x-amz-UFID=31544211675542366
-  ROM_NAME: OneUI
+  ROM_URL: https://ip1428142971.out.azhimalayanvh.com/Firmware/Flyme/16T/8.20.6.30/cn_beta/20200715101906/6d839504/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=d3ffde5ed6484a9ac47de50265dd23541e8b1026450b1c1c&ali_redirect_ex_tmining_ts=1602060975&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
