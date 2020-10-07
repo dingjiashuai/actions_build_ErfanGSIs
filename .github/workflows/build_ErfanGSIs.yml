@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://pan.baidu.com/s/1IpEFCtSq-h13ZfAqo9N2jw#list/path=%2Fsharelink140782937-32815832545765%2F%E4%B8%89%E6%98%9FS10-S10%2B%E9%80%9A%E5%88%B7&parentPath=%2Fsharelink140782937-32815832545765
+  ROM_URL: https://6yun.cc/#/s/5evsl
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
