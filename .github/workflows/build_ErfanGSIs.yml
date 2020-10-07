@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://ip1428142971.out.azhimalayanvh.com/Firmware/Flyme/16T/8.20.6.30/cn_beta/20200715101906/6d839504/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=d3ffde5ed6484a9ac47de50265dd23541e8b1026450b1c1c&ali_redirect_ex_tmining_ts=1602060975&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
-  ROM_NAME: Flyme
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
